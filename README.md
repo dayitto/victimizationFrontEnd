@@ -1,27 +1,35 @@
-# VictimizacionFrontEnd
+# Victimizacion
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.0.
+Proyecto de prueba de construcción de servicio RESTful con Spring y su consumo con AngularJS.
 
-## Development server
+## Comenzando
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Estas instrucciónes permitirán ejecutar la aplicación Web del proyecto.
 
-## Code scaffolding
+### Datos
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Este proyecto utiliza el BackEnd realizado con Spring que utiliza la información sobre la prevalencia delictiva (Victimización) del año 2010 hasta el 2017.
 
-## Build
+#### Pre-requisitos
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+->NodeJs
+<br>->Angular-cli
+<br>->BackEnd ejecutado y listo para su consumo
 
-## Running unit tests
+##### Instalación
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+->Entrar a la carpeta raíz del proyecto y ejecutar el comando npm install para instalar las dependencias.
+<br>->Ejecutar el comando ng serve para preparar la aplicación.
+<br>->En el navegador, ingresar a la siguiente url: http://localhost:4200/.
 
-## Running end-to-end tests
+###### Construido con
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+JavaScript.- Lenguaje de programación del lado del cliente.
+<br>Angular.- Framework de JavaScript para el desarrollo de aplicaciónes de una sola página.
+<br>chart.js.- Repositorio para crear diversos tipos de gráficos en el lenguaje de programación JavaScript.
+<br>TypeScript.- Superconjunto de JavaScript desarrollado por Microsoft que añade funcionamiento al lenguaje inicial.
+<br>NPM.- Sistema gestor de paquetes para NodeJS.
 
-## Further help
+###### Autor
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Franz Dayit López Cruz
