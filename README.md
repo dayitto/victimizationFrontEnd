@@ -1,6 +1,6 @@
-# Victimizacion
+# victimizacionFrontEnd
 
-Proyecto de prueba de construcción de servicio RESTful con Spring y su consumo con AngularJS.
+Proyecto de prueba de construcción de una aplicación con Angular que consume un BackEnd desarrollado con Spring Framework.
 
 ## Comenzando
 
